@@ -69,8 +69,7 @@ void Player::Update()
 {
 	//ˆÚ“®ˆ—
 	Move();
-	//‰ñ“]ˆ—
-	Rotation();
+
 	//“–‚½‚è”»’èB
 	Collision();
 	//UŒ‚ˆ—
